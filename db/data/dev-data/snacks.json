@@ -1,0 +1,56 @@
+[
+  {
+    "snack_name": "Kit Kat",
+    "flavour_text": "time for a break",
+    "category": "Chocolate",
+    "rating": "4"
+  },
+  {
+    "snack_name": "Hobnob",
+    "flavour_text": "a modern classic",
+    "category": "Biscuit",
+    "rating": "2"
+  },
+  {
+    "snack_name": "Banana",
+    "flavour_text": "monkeys open them upside down",
+    "category": "Fruit",
+    "rating": "1"
+  },
+  {
+    "snack_name": "Butter Croissant",
+    "flavour_text": "always appreciated",
+    "category": "Pastry",
+    "rating": "4"
+  },
+  {
+    "snack_name": "Crisps",
+    "flavour_text": "salty slices of patatoes",
+    "category": "Crisps",
+    "rating": "2"
+  },
+  {
+    "snack_name": "Coffee",
+    "flavour_text": "Colombia's finest export",
+    "category": "Drink",
+    "rating": "4"
+  },
+  {
+    "snack_name": "Pain Aux Raisins",
+    "flavour_text": "full off wrinkly grapes",
+    "category": "Pastry",
+    "rating": "3"
+  },
+  {
+    "snack_name": "Apple",
+    "flavour_text": "keep those doctors away",
+    "category": "Fruit",
+    "rating": "1"
+  },
+  {
+    "snack_name": "Pain Au Chocolat",
+    "flavour_text": "oolala!",
+    "category": "Pastry",
+    "rating": "5"
+  }
+]

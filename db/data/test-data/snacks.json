@@ -1,0 +1,32 @@
+[
+  {
+    "snack_name": "snack-A1",
+    "flavour_text": "text",
+    "category": "A",
+    "rating": "4"
+  },
+  {
+    "snack_name": "snack-A3",
+    "flavour_text": "text",
+    "category": "A",
+    "rating": "2"
+  },
+  {
+    "snack_name": "snack-A2",
+    "flavour_text": "text",
+    "category": "A",
+    "rating": "1"
+  },
+  {
+    "snack_name": "snack-B2",
+    "flavour_text": "text",
+    "category": "B",
+    "rating": "3"
+  },
+  {
+    "snack_name": "snack-B1",
+    "flavour_text": "text",
+    "category": "B",
+    "rating": "5"
+  }
+]
